@@ -1,0 +1,498 @@
+country,state,resort_name,vertical_drop_ft,skiable_acres,avg_annual_snow_in,operating_class,owner,pass_affiliations,operated_2324,operated_2425,anticipated_2526,confirmed_2526
+USA,Arizona,Arizona Snowbowl,2300,777,242,Public w/Aerial Lifts,Mountain Capital Partners,"Power Pass Full, Power Pass Select, Power Pass Core, Weekday Power Pass",Yes,Yes,Yes,Yes
+USA,Arizona,Mt. Lemmon Ski Valley,950,200,180,Public w/Aerial Lifts,Independent,,Yes,No,Yes,Yes
+USA,Arizona,Sunrise Park,1800,1200,225,Public w/Aerial Lifts,Independent,,Yes,Yes,Yes,Yes
+USA,California,Alta Sierra,600,80,80,"Public w/Aerial Lifts, On Status Watch",,,Yes,No,Yes,
+USA,California,Badger Pass,800,90,300,"Public w/Aerial Lifts, On Status Watch",,,Yes,No,Yes,
+USA,California,Bear Mountain (Big Bear),1665,198,114,Public w/Aerial Lifts,Alterra,"Ikon, Ikon Base, Ikon Session, California Gold Pass",Yes,Yes,Yes,Yes
+USA,California,Bear Valley,1900,1680,352,Public w/Aerial Lifts,California Mountain Resort Company,"Indy, Indy+, Powder Alliance, Cali Pass, California Gold Pass",Yes,Yes,Yes,Yes
+USA,California,Boreal,500,380,389,Public w/Aerial Lifts,Powdr,California Gold Pass,Yes,Yes,Yes,Yes
+USA,California,Cedar Pass,400,100,,"Public - Surface Lifts Only, On Status Watch",,,No,No,Yes,
+USA,California,China Peak,1679,1200,300,Public w/Aerial Lifts,California Mountain Resort Company,"Indy, Indy+, Powder Alliance, Cali Pass, California Gold Pass",Yes,Yes,Yes,Yes
+USA,California,Coppervale,740,80,,Public - Surface Lifts Only,Independent,,Yes,Yes,Yes,
+USA,California,Dodge Ridge,1600,862,300,Public w/Aerial Lifts,California Mountain Resort Company,"Indy, Indy+, Powder Alliance, Cali Pass, California Gold Pass",Yes,Yes,Yes,
+USA,California,Donner Ski Ranch,800,500,389,Public w/Aerial Lifts,Independent,"Indy, Indy+",Yes,Yes,Yes,
+USA,California,Granlibakken,200,25,170,Public - Surface Lifts Only,Independent,California Gold Pass,Yes,Yes,Yes,Yes
+USA,California,Heavenly,3475,4800,251,Public w/Aerial Lifts,Vail Resorts,"Epic, Epic Local, Epic Tahoe Local, Epic Tahoe Value, Epic Day All, Epic Day 32, California Gold Pass",Yes,Yes,Yes,Yes
+USA,California,Homewood,1650,1260,450,"Public w/Aerial Lifts, On Status Watch",JMA Ventures,California Gold Pass,Yes,No,Yes,
+USA,California,June Mountain,2590,1500,276,Public w/Aerial Lifts,Alterra,"Ikon, Ikon Base, Ikon Session, California Gold Pass",Yes,Yes,Yes,Yes
+USA,California,Kingvale,150,50,25,Public - Surface Lifts Only,Independent,California Gold Pass,Yes,Yes,Yes,
+USA,California,Kirkwood,2000,2300,354,Public w/Aerial Lifts,Vail Resorts,"Epic, Epic Local, Epic Tahoe Local, Epic Tahoe Value, Epic Day All, Epic Day 32, California Gold Pass",Yes,Yes,Yes,Yes
+USA,California,Mammoth,3100,3500,357,Public w/Aerial Lifts,Alterra,"Ikon, Ikon Base, Ikon Session, California Gold Pass",Yes,Yes,Yes,Yes
+USA,California,Mountain  High: West,1000,145,117,Public w/Aerial Lifts,California Mountain Resort Company,"Indy, Indy+, Powder Alliance, Cali Pass, California Gold Pass",Yes,Yes,Yes,Yes
+USA,California,Mountain High: East,1600,145,117,Public w/Aerial Lifts,California Mountain Resort Company,"Indy, Indy+, Powder Alliance, Cali Pass, California Gold Pass",Yes,Yes,Yes,
+USA,California,Mt. Baldy,2100,800,170,Public w/Aerial Lifts,Independent,California Gold Pass,Yes,Yes,Yes,Yes
+USA,California,Mt. Shasta,2036,635,250,Public w/Aerial Lifts,Independent,"Indy, Indy+, Powder Alliance, California Gold Pass",Yes,Yes,Yes,
+USA,California,Northstar,2280,3170,350,Public w/Aerial Lifts,Vail Resorts,"Epic, Epic Local, Epic Tahoe Local, Epic Tahoe Value, Epic Day All, Epic Day 32, California Gold Pass",Yes,Yes,Yes,Yes
+USA,California,Palisades Tahoe: Olympic,2850,6000,364,Public w/Aerial Lifts,Alterra,"Ikon, Ikon Base, Ikon Session, California Gold Pass",Yes,Yes,Yes,Yes
+USA,California,Sierra-at-Tahoe,2212,2000,401,Public w/Aerial Lifts,Independent,"Ikon, Ikon Base, Ikon Session, Powder Alliance, California Gold Pass",Yes,Yes,Yes,Yes
+USA,California,Snow Summit (Big Bear),1200,240,114,Public w/Aerial Lifts,Alterra,"Ikon, Ikon Base, Ikon Session, California Gold Pass",Yes,Yes,Yes,Yes
+USA,California,Snow Valley,1041,240,150,Public w/Aerial Lifts,Alterra,"Ikon, Ikon Base, Ikon Session, California Gold Pass",Yes,Yes,Yes,
+USA,California,Soda Springs,550,200,389,Public w/Aerial Lifts,Powdr,California Gold Pass,Yes,Yes,Yes,Yes
+USA,California,Sugar Bowl,1500,1650,429,Public w/Aerial Lifts,Independent,"Mountain Collective, California Gold Pass",Yes,Yes,Yes,Yes
+USA,California,Tahoe Donner,600,120,385,Public w/Aerial Lifts,Independent,California Gold Pass,Yes,Yes,Yes,Yes
+USA,Colorado,Arapahoe Basin,1698,1428,350,Public w/Aerial Lifts,Alterra,"Ikon, Ikon Base, Ikon Session, Colorado Gems Pass, Colorado Gems Discount Card, Ski Colorado Kids Passport, Colorado Gold Pass",Yes,Yes,Yes,Yes
+USA,Colorado,Aspen Highlands,3635,1010,260,Public w/Aerial Lifts,Aspen Skiing Company,"Ikon, Mountain Collective, Aspen-Snowmass, Ski Colorado Kids Passport, Colorado Gold Pass",Yes,Yes,Yes,Yes
+USA,Colorado,Aspen Mountain,3317,826,248,Public w/Aerial Lifts,Aspen Skiing Company,"Ikon, Mountain Collective, Aspen-Snowmass, Ski Colorado Kids Passport, Colorado Gold Pass",Yes,Yes,Yes,Yes
+USA,Colorado,Beaver Creek,3340,2082,323,Public w/Aerial Lifts,Vail Resorts,"Epic, Epic Local, Epic Tahoe Local, Epic Day All, Epic School Kids",Yes,Yes,Yes,Yes
+USA,Colorado,Breckenridge,3240,2908,355,Public w/Aerial Lifts,Vail Resorts,"Epic, Epic Local, Epic Tahoe Local, Epic Summit Value, Epic Keystone Plus, Epic Day All, Epic School Kids",Yes,Yes,Yes,Yes
+USA,Colorado,Buttermilk,2030,435,200,Public w/Aerial Lifts,Aspen Skiing Company,"Ikon, Mountain Collective, Aspen-Snowmass, Ski Colorado Kids Passport, Colorado Gold Pass",Yes,Yes,Yes,Yes
+USA,Colorado,Chapman,319,7,71,Public - Surface Lifts Only,Independent,,Yes,Yes,Yes,Yes
+USA,Colorado,Copper Mountain,2729,2538,278,Public w/Aerial Lifts,Powdr,"Ikon, Ikon Base, Ikon Session, Ski Colorado Kids Passport, Colorado Gold Pass",Yes,Yes,Yes,Yes
+USA,Colorado,Cranor Hill,305,,75,Public - Surface Lifts Only,Independent,,Yes,Yes,Yes,
+USA,Colorado,Crested Butte,2775,1547,236,Public w/Aerial Lifts,Vail Resorts,"Epic, Epic Local, Epic Tahoe Local, Epic Keystone Plus, Epic Day All, Epic Day 32, Epic School Kids",Yes,Yes,Yes,Yes
+USA,Colorado,Cuchara,266,43,200,"Public w/Aerial Lifts, On Status Watch",,"Indy, Indy+",w/o Lifts,w/o Lifts,Yes,
+USA,Colorado,Echo Mountain,600,60,150,Public w/Aerial Lifts,Independent,"Indy, Indy+, Colorado Gems Pass, Colorado Gems Discount Card, Ski Colorado Kids Passport, Colorado Gold Pass",Yes,Yes,Yes,
+USA,Colorado,Eldora,1240,680,225,Public w/Aerial Lifts,Independent,"Ikon, Ikon Base, Ikon Session, Colorado Gems Pass, Colorado Gems Discount Card, Ski Colorado Kids Passport, Colorado Gold Pass",Yes,Yes,Yes,Yes
+USA,Colorado,Frisco,N/A,,,Public - Surface Lifts Only,Independent,,Yes,Yes,Yes,
+USA,Colorado,Granby Ranch,1000,406,200,Public w/Aerial Lifts,Independent,"Indy, Indy+, Colorado Gems Pass, Colorado Gems Discount Card, Ski Colorado Kids Passport, Colorado Gold Pass",Yes,Yes,Yes,Yes
+USA,Colorado,Hoedown Hill,130,12,24,Public - Surface Lifts Only,Independent,"Indy, Indy+",Yes,Yes,Yes,Yes
+USA,Colorado,Howelsen Hill,440,50,170,Public w/Aerial Lifts,Independent,"Indy, Indy+, Ski Colorado Kids Passport, Colorado Gold Pass",Yes,Yes,Yes,Yes
+USA,Colorado,Kendall Mountain,240,16,200,Public w/Aerial Lifts,Independent,,Yes,Yes,Yes,
+USA,Colorado,Keystone,2920,3149,235,Public w/Aerial Lifts,Vail Resorts,"Epic, Epic Local, Epic Tahoe Local, Epic Summit Value, Epic Keystone Plus, Epic Day All, Epic Day 32, Epic School Kids",Yes,Yes,Yes,Yes
+USA,Colorado,Lake City,250,14,,Public - Surface Lifts Only,Independent,,Yes,Yes,Yes,
+USA,Colorado,Lee's,75,2,134,Public - Surface Lifts Only,Independent,,Yes,Yes,Yes,
+USA,Colorado,Loveland Basin,1890,1800,337,Public w/Aerial Lifts,Independent,"Indy, Indy+, Powder Alliance, Power Pass Full, Colorado Gems Pass, Colorado Gems Discount Card, Ski Colorado Kids Passport, Colorado Gold Pass",Yes,Yes,Yes,Yes
+USA,Colorado,Loveland Valley,810,,,Public w/Aerial Lifts,Independent,"Indy, Indy+, Powder Alliance, Power Pass Full, Colorado Gems Pass, Colorado Gems Discount Card, Ski Colorado Kids Passport, Colorado Gold Pass",Yes,Yes,Yes,Yes
+USA,Colorado,Monarch,1162,1177,308,Public w/Aerial Lifts,Independent,"Power Pass Full, Power Pass Select, Power Pass Core, Colorado Gems Pass, Colorado Gems Discount Card, Ski Colorado Kids Passport, Colorado Gold Pass",Yes,Yes,Yes,Yes
+USA,Colorado,Powderhorn,1650,1600,225,Public w/Aerial Lifts,Pacific Group Resorts,"Indy, Indy+, Colorado Gems Pass, Colorado Gems Discount Card, Ski Colorado Kids Passport, Colorado Gold Pass",Yes,Yes,Yes,Yes
+USA,Colorado,Purgatory,2029,1635,261,Public w/Aerial Lifts,Mountain Capital Partners,"Power Pass Full, Power Pass Select, Power Pass Core, Weekday Power Pass, Colorado Gems Pass, Colorado Gems Discount Card, Ski Colorado Kids Passport, Colorado Gold Pass",Yes,Yes,Yes,Yes
+USA,Colorado,Silverton (unguided),1900,1819,294,Public w/Aerial Lifts,Independent,,Yes,Yes,Yes,
+USA,Colorado,Ski Cooper,1200,480,260,Public w/Aerial Lifts,Independent,"Powder Alliance, Freedom, Colorado Gems Pass, Colorado Gems Discount Card, Ski Colorado Kids Passport, Colorado Gold Pass",Yes,Yes,Yes,Yes
+USA,Colorado,Snowmass,4400,3342,301,Public w/Aerial Lifts,Aspen Skiing Company,"Ikon, Mountain Collective, Aspen-Snowmass, Ski Colorado Kids Passport, Colorado Gold Pass",Yes,Yes,Yes,Yes
+USA,Colorado,Steamboat,3668,3741,370,Public w/Aerial Lifts,Alterra,"Ikon, Ikon Base, Ikon Session, Ski Colorado Kids Passport, Colorado Gold Pass",Yes,Yes,Yes,Yes
+USA,Colorado,Sunlight,2010,730,227,Public w/Aerial Lifts,Independent,"Indy, Indy+, Colorado Gems Pass, Colorado Gems Discount Card, Ski Colorado Kids Passport, Colorado Gold Pass, Indy Learn-To-Turn",Yes,Yes,Yes,Yes
+USA,Colorado,Telluride,3790,2000,276,Public w/Aerial Lifts,Independent,"Epic, Epic Day All, Ski Colorado Kids Passport, Colorado Gold Pass",Yes,Yes,Yes,Yes
+USA,Colorado,Vail Mountain,3450,5317,354,Public w/Aerial Lifts,Vail Resorts,"Epic, Epic Local, Epic Tahoe Local, Epic Day All, Epic School Kids",Yes,Yes,Yes,Yes
+USA,Colorado,Winter Park,3060,3081,349,Public w/Aerial Lifts,Alterra,"Ikon, Ikon Base, Ikon Session, Ski Colorado Kids Passport, Colorado Gold Pass",Yes,Yes,Yes,Yes
+USA,Colorado,Wolf Creek,1604,1600,384,Public w/Aerial Lifts,Independent,,Yes,Yes,Yes,Yes
+USA,Connecticut,Lakeridge,163,,,Private w/Aerial Lifts,Independent,,Yes,Yes,Yes,
+USA,Connecticut,Mohawk Mountain,650,107,92,Public w/Aerial Lifts,Independent,"Indy, Indy+",Yes,Yes,Yes,Yes
+USA,Connecticut,Mount Southington,354,51,40,Public w/Aerial Lifts,Independent,"Freedom, Snow Triple Play",Yes,Yes,Yes,
+USA,Connecticut,Powder Ridge,550,80,38,Public w/Aerial Lifts,Independent,,Yes,Yes,Yes,
+USA,Connecticut,Ski Sundown,625,65,45,Public w/Aerial Lifts,Independent,,Yes,Yes,Yes,Yes
+USA,Idaho,Bald Mountain,684,140,200,Public - Surface Lifts Only,Independent,Ski Idaho Kids Passport,Yes,Yes,Yes,
+USA,Idaho,Bogus Basin,1800,2600,248,Public w/Aerial Lifts,Independent,"Powder Alliance, Freedom, Ski Idaho Kids Passport",Yes,Yes,Yes,Yes
+USA,Idaho,Brundage,1921,1920,297,Public w/Aerial Lifts,Independent,"Indy, Indy+, Ski Idaho Kids Passport",Yes,Yes,Yes,Yes
+USA,Idaho,Chipmunk Hills,301,30,,Public - Surface Lifts Only,Independent,,Yes,Yes,Yes,
+USA,Idaho,Cottonwood Butte,640,260,45,Public - Surface Lifts Only,Independent,Ski Idaho Kids Passport,Yes,Yes,Yes,
+USA,Idaho,Gateway Parks: Eagle Island,N/A,,,Public - Surface Lifts Only,Gateway,,Yes,Yes,Yes,
+USA,Idaho,Gateway Parks: Idaho Falls,N/A,,,Public - Surface Lifts Only,Gateway,,Yes,Yes,Yes,
+USA,Idaho,Kelly Canyon,1200,640,250,Public w/Aerial Lifts,Independent,"Indy, Indy+, Indy Learn-To-Turn",Yes,Yes,Yes,Yes
+USA,Idaho,Little Ski Hill,393,40,150,Public - Surface Lifts Only,Independent,"Indy, Indy+, Ski Idaho Kids Passport",Yes,Yes,Yes,
+USA,Idaho,Lookout Pass,1650,1023,415,Public w/Aerial Lifts,Independent,Ski Idaho Kids Passport,Yes,Yes,Yes,Yes
+USA,Idaho,Magic Mountain,740,120,230,Public w/Aerial Lifts,Independent,"Indy, Indy+, Ski Idaho Kids Passport",Yes,Yes,Yes,
+USA,Idaho,Pebble Creek,2200,1100,225,Public w/Aerial Lifts,Independent,Ski Idaho Kids Passport,Yes,Yes,Yes,
+USA,Idaho,Pomerelle,1002,500,325,Public w/Aerial Lifts,Independent,"Indy, Indy+, Ski Idaho Kids Passport",Yes,Yes,Yes,
+USA,Idaho,Rotarun,485,,100,Public - Surface Lifts Only,Independent,,Yes,Yes,Yes,
+USA,Idaho,Schweitzer,2429,2900,271,Public w/Aerial Lifts,Alterra,"Ikon, Ikon Base, Ikon Session, Ski Idaho Kids Passport",Yes,Yes,Yes,Yes
+USA,Idaho,Silver Mountain,2200,1600,328,Public w/Aerial Lifts,CMR Lands,"Indy, Indy+, Powder Alliance, Silver/49 North, Ski Idaho Kids Passport",Yes,Yes,Yes,Yes
+USA,Idaho,Snowhaven,400,40,60,Public - Surface Lifts Only,Independent,Ski Idaho Kids Passport,Yes,Yes,Yes,
+USA,Idaho,Soldier Mountain,1421,1142,175,Public w/Aerial Lifts,Independent,"Indy, Indy+, Indy Learn-To-Turn, Ski Idaho Kids Passport",Yes,Yes,Yes,
+USA,Idaho,Sun Valley: Bald,3400,2533,193,Public w/Aerial Lifts,Holding Family,"Ikon, Mountain Collective, Ski Idaho Kids Passport",Yes,Yes,Yes,Yes
+USA,Idaho,Sun Valley: Dollar,628,296,,Public w/Aerial Lifts,Holding Family,"Ikon, Mountain Collective, Ski Idaho Kids Passport",Yes,Yes,Yes,
+USA,Idaho,Tamarack,2800,1100,275,Public w/Aerial Lifts,Independent,"Indy, Indy+, Ski Idaho Kids Passport",Yes,Yes,Yes,
+USA,Illinois,Alpine Hills Adventure Park,N/A,,,Public - Surface Lifts Only,Independent,,Yes,Yes,Yes,
+USA,Illinois,Chestnut,475,220,34,Public w/Aerial Lifts,Independent,"Indy, Indy+, Indy Learn-To-Turn",Yes,Yes,Yes,Yes
+USA,Illinois,Fourlakes,100,9,24,Public - Surface Lifts Only,Independent,,Yes,Yes,Yes,Yes
+USA,Illinois,Snowstar,262,28,39,Public w/Aerial Lifts,Independent,"Indy, Indy+",Yes,Yes,Yes,Yes
+USA,Illinois,Villa Olivia,180,15,25,Public w/Aerial Lifts,Independent,,Yes,Yes,Yes,Yes
+USA,Indiana,Paoli Peaks,300,65,18,Public w/Aerial Lifts,Vail Resorts,"Epic, Epic Local, Epic Day All, Epic Day 32, Epic Day 22",Yes,Yes,Yes,
+USA,Indiana,Perfect North,400,100,10,Public w/Aerial Lifts,Perfect Family,Perfect Pass,Yes,Yes,Yes,Yes
+USA,Iowa,Crescent Hill at Hitchcock,300,50,30,Public w/Aerial Lifts,Independent,,Yes,Yes,Yes,Yes
+USA,Iowa,Seven Oaks,240,35,40,Public w/Aerial Lifts,Independent,Freedom,Yes,Yes,Yes,Yes
+USA,Iowa,Sundown,475,85,50,Public w/Aerial Lifts,Independent,"Indy, Indy+, Indy Learn-To-Turn",Yes,Yes,Yes,Yes
+USA,Maine,Baker,460,,,Public - Surface Lifts Only,Independent,"Ski Maine Mountain Pass, Winter Kids Maine Passport",Yes,Yes,Yes,
+USA,Maine,Big Moose,587,,136,Public w/Aerial Lifts,Independent,"Indy, Indy+, Uphill New England, Ski Maine Mountain Pass, Winter Kids Maine Passport",Yes,Yes,Yes,
+USA,Maine,Bigrock,920,90,94,Public w/Aerial Lifts,Independent,"Indy, Indy+, Ski Maine Mountain Pass, Indy Learn-To-Turn, Winter Kids Maine Passport",Yes,Yes,Yes,Yes
+USA,Maine,Black Mountain of Maine,1150,300,120,Public w/Aerial Lifts,Independent,"Indy, Indy+, Uphill New England, Ski Maine Mountain Pass, Winter Kids Maine Passport",Yes,Yes,Yes,
+USA,Maine,Camden Snow Bowl,850,105,50,Public w/Aerial Lifts,Independent,"Indy, Indy+, Uphill New England, Ski Maine Mountain Pass, Winter Kids Maine Passport",Yes,Yes,Yes,
+USA,Maine,Caribou High School,85,,,Private - Surface Lifts Only,Independent,,Yes,Yes,Yes,
+USA,Maine,Hermon Mountain,256,60,90,"Public w/Aerial Lifts, On Status Watch",Independent,Ski Maine Mountain Pass,Yes,Yes,Yes,
+USA,Maine,Lonesome Pine,440,,,Public - Surface Lifts Only,Independent,Ski Maine Mountain Pass,Yes,Yes,Yes,
+USA,Maine,Lost Valley,240,45,99,Public w/Aerial Lifts,Independent,"Indy, Indy+, Ski Maine Mountain Pass, Freedom, Winter Kids Maine Passport",Yes,Yes,Yes,Yes
+USA,Maine,Mount Abram,1050,170,115,Public w/Aerial Lifts,Independent,"Indy, Indy+, Uphill New England, Ski Maine Mountain Pass, Indy Learn-To-Turn, Winter Kids Maine Passport",Yes,Yes,Yes,
+USA,Maine,Mount Jefferson,432,160,75,Public - Surface Lifts Only,Independent,,Yes,Yes,Yes,
+USA,Maine,O'Connor (Kent School),210,,,Private - Surface Lifts Only,Independent,,Yes,Yes,Yes,
+USA,Maine,Pinnacle,100,,,Public - Surface Lifts Only,Independent,,No,Yes,Yes,
+USA,Maine,Pleasant Mountain,1300,249,110,Public w/Aerial Lifts,Boyne Resorts,"New England Pass, Boyne Passport, Boyne Explorer, Snow Triple Play, New England Day, Michigan Pass, Ski Maine Mountain Pass",Yes,Yes,Yes,Yes
+USA,Maine,Powderhouse Hill,175,,,Public - Surface Lifts Only,Independent,Ski Maine Mountain Pass,Yes,Yes,Yes,Yes
+USA,Maine,Quarry Road,75,,,Public - Surface Lifts Only,Independent,Winter Kids Maine Passport,Yes,Yes,Yes,
+USA,Maine,Quoggy Joe,215,,,Public - Surface Lifts Only,Independent,"Ski Maine Mountain Pass, Winter Kids Maine Passport",Yes,Yes,Yes,
+USA,Maine,Saddleback,1850,600,225,Public w/Aerial Lifts,Independent,"Indy, Indy+, Uphill New England, Ski Maine Mountain Pass",Yes,Yes,Yes,Yes
+USA,Maine,Spruce Mountain,300,,,Public - Surface Lifts Only,Independent,Ski Maine Mountain Pass,Yes,Yes,Yes,
+USA,Maine,Sugarloaf,2748,1360,200,Public w/Aerial Lifts,Boyne Resorts,"Ikon, Ikon Base, Ikon Session, Mountain Collective, New England Pass, New England Day, Boyne Passport, Boyne Explorer, Michigan Pass, Ski Maine Mountain Pass",Yes,Yes,Yes,Yes
+USA,Maine,Sunday River,2350,1184,167,Public w/Aerial Lifts,Boyne Resorts,"Ikon, Ikon Base, Ikon Session, Mountain Collective, New England Pass, New England Day, Boyne Passport, Boyne Explorer, Michigan Pass, Ski Maine Mountain Pass",Yes,Yes,Yes,Yes
+USA,Maine,Titcomb,350,45,85,Public - Surface Lifts Only,Independent,"Ski Maine Mountain Pass, Winter Kids Maine Passport",Yes,Yes,Yes,
+USA,Maryland,Wisp,700,132,100,Public w/Aerial Lifts,Pacific Group Resorts,"Indy, Indy+",Yes,Yes,Yes,Yes
+USA,Massachusetts,Berkshire East,1180,180,110,Public w/Aerial Lifts,Schaefer Family,"Indy, Indy+, Uphill New England, Berkshire Summit Pass, Indy Learn-To-Turn",Yes,Yes,Yes,Yes
+USA,Massachusetts,Blue Hills,309,60,,Public w/Aerial Lifts,Independent,,Yes,Yes,Yes,
+USA,Massachusetts,Bousquet,750,200,83,Public w/Aerial Lifts,Independent,"Indy, Indy+, Berkshire Summit Pass, Indy Learn-To-Turn",Yes,Yes,Yes,Yes
+USA,Massachusetts,Butternut,1000,110,110,Public w/Aerial Lifts,Murdock Family,"Freedom, Snow Triple Play, Ikon",Yes,Yes,Yes,Yes
+USA,Massachusetts,Catamount,1000,133,108,Public w/Aerial Lifts,Schaefer Family,"Indy, Indy+, Berkshire Summit Pass, Uphill New England, Ski New York Kids Passport, Ski New York Gold Card",Yes,Yes,Yes,Yes
+USA,Massachusetts,Easton (Eaglebrook School),440,,,Private w/Aerial Lifts,Independent,,Yes,Yes,Yes,
+USA,Massachusetts,Jiminy Peak,1150,167.4,100,Public w/Aerial Lifts,Fairbank Group,"Ikon, Uphill New England",Yes,Yes,Yes,Yes
+USA,Massachusetts,Mt. Greylock Ski Club,350,,,Private - Surface Lifts Only,Independent,,Yes,Yes,Yes,
+USA,Massachusetts,Nashoba Valley,240,59,50,Public w/Aerial Lifts,Independent,,Yes,Yes,Yes,Yes
+USA,Massachusetts,Otis Ridge,400,70,70,Public w/Aerial Lifts,Murdock Family,,Yes,Yes,Yes,
+USA,Massachusetts,Ski Bradford,220,48,,Public w/Aerial Lifts,Independent,,Yes,Yes,Yes,
+USA,Massachusetts,Ski Ward,220,45,80,Public w/Aerial Lifts,Independent,,Yes,Yes,Yes,Yes
+USA,Massachusetts,Wachusett,1000,110,100,Public w/Aerial Lifts,Independent,,Yes,Yes,Yes,Yes
+USA,Michigan,Adventure Mountain (UP),134,,,Public - Surface Lifts Only,Independent,,Yes,Yes,Yes,
+USA,Michigan,Alpine Valley MI,300,100,8,Public w/Aerial Lifts,Wisconsin Resorts,"Wisconsin Resorts, Michigan White Gold Card",Yes,Yes,Yes,Yes
+USA,Michigan,Big Powderhorn (UP),622,253,204,Public w/Aerial Lifts,Independent,"Indy, Indy+, Michigan White Gold Card",Yes,Yes,Yes,Yes
+USA,Michigan,Big Valley (UP),140,5,,Public - Surface Lifts Only,Independent,,Yes,Yes,Yes,
+USA,Michigan,Bittersweet,350,100,90,Public w/Aerial Lifts,Wisconsin Resorts,"Wisconsin Resorts, Michigan White Gold Card, Michigan Kids Passport",Yes,Yes,Yes,Yes
+USA,Michigan,Boyne Mountain,420,435,140,Public w/Aerial Lifts,Boyne Resorts,"Ikon, Ikon Base, Ikon Session, Boyne Passport, Boyne Explorer, New England Pass, Michigan Pass, Michigan White Gold Card, Michigan Kids Passport",Yes,Yes,Yes,Yes
+USA,Michigan,Caberfae Peaks,485,200,120,Public w/Aerial Lifts,Independent,"Indy, Indy+, Freedom, Michigan White Gold Card, Michigan Kids Passport",Yes,Yes,Yes,Yes
+USA,Michigan,Cannonsburg,250,100,100,Public w/Aerial Lifts,Independent,"Michigan White Gold Card, Michigan Kids Passport",Yes,Yes,Yes,Yes
+USA,Michigan,Challenge Mountain,370,,,Private - Surface Lifts Only,Independent,,Yes,Yes,Yes,
+USA,Michigan,Covington (UP),115,,,Public - Surface Lifts Only,Independent,,No,Yes,Yes,
+USA,Michigan,Crystal Mountain MI,375,103,132,Public w/Aerial Lifts,Independent,"Indy, Indy+, Michigan White Gold Card, Michigan Kids Passport",Yes,Yes,Yes,Yes
+USA,Michigan,Crystella (UP),69,,,Public - Surface Lifts Only,Independent,,Yes,Yes,Yes,
+USA,Michigan,Gladstone (UP) (J&M Bess),131,25,50,Public - Surface Lifts Only,Independent,,Yes,Yes,Yes,
+USA,Michigan,Hanson Hills,225,125,60,Public - Surface Lifts Only,Independent,"Michigan White Gold Card, Michigan Kids Passport",Yes,Yes,Yes,
+USA,Michigan,Hiawatha (Chatham) (UP),86,,,Public - Surface Lifts Only,Independent,,Yes,Yes,Yes,
+USA,Michigan,Hickory Hills,237,125,60,Public - Surface Lifts Only,Independent,"Michigan White Gold Card, Michigan Kids Passport",Yes,Yes,Yes,
+USA,Michigan,Homestead,225,16,,Public w/Aerial Lifts,Independent,"Michigan White Gold Card, Michigan Kids Passport",Yes,Yes,Yes,
+USA,Michigan,Marquette Mountain (UP),540,330,210,Public w/Aerial Lifts,Independent,"Indy, Indy+, Michigan White Gold Card, Michigan Kids Passport, Indy Learn-To-Turn",Yes,Yes,Yes,Yes
+USA,Michigan,Missaukee Mountain,157,25,90,Public - Surface Lifts Only,Independent,,Yes,Yes,Yes,
+USA,Michigan,Mont Ripley (UP),470,115,275,Public w/Aerial Lifts,Independent,"Indy Allied, Michigan White Gold Card, Michigan Kids Passport",Yes,Yes,Yes,Yes
+USA,Michigan,Mount Bohemia (UP),898,585,273,Public w/Aerial Lifts,Independent,Michigan White Gold Card,Yes,Yes,Yes,Yes
+USA,Michigan,Mount Brighton,230,130,60,Public w/Aerial Lifts,Vail Resorts,"Epic, Epic Local, Epic Northeast Value, Epic Northeast Midweek, Epic Day All, Epic Day 32, Epic Day 22, Michigan White Gold Card, Michigan Kids Passport",Yes,Yes,Yes,Yes
+USA,Michigan,Mount Holiday,200,45,59,Public w/Aerial Lifts,Independent,"Indy, Indy+, Michigan White Gold Card, Indy Learn-To-Turn, Michigan Kids Passport",Yes,Yes,Yes,
+USA,Michigan,Mount Holly,350,100,42,Public w/Aerial Lifts,Wisconsin Resorts,"Wisconsin Resorts, Michigan White Gold Card, Michigan Kids Passport",Yes,Yes,Yes,Yes
+USA,Michigan,Mount McSauba (Charlevoix Mountain Ski Hill),150,80,120,Public - Surface Lifts Only,Independent,,Yes,Yes,Yes,
+USA,Michigan,Mount Zion (UP),300,20,200,Public w/Aerial Lifts,Independent,Michigan White Gold Card,Yes,Yes,Yes,
+USA,Michigan,Mulligan’s Hollow,130,7,60,Public - Surface Lifts Only,Independent,,Yes,Yes,Yes,
+USA,Michigan,Norway Mountain,500,160,33,Public w/Aerial Lifts,Independent,"Indy, Indy+, Freedom, Michigan White Gold Card, Michigan Kids Passport",No,Yes,Yes,
+USA,Michigan,Nub’s Nob,425,248,125,Public w/Aerial Lifts,Independent,"Indy, Indy+, Michigan White Gold Card, Indy Learn-To-Turn, Michigan Kids Passport",Yes,Yes,Yes,Yes
+USA,Michigan,Otsego,400,160,155,Public w/Aerial Lifts,Independent,"Michigan White Gold Card, Michigan Kids Passport",Yes,Yes,Yes,
+USA,Michigan,Pine Knob,300,80,60,Public w/Aerial Lifts,Wisconsin Resorts,"Wisconsin Resorts, Michigan White Gold Card",Yes,Yes,Yes,Yes
+USA,Michigan,Pine Mountain (UP),364,220,30,Public w/Aerial Lifts,Independent,"Indy, Indy+, Michigan White Gold Card, Michigan Kids Passport",Yes,Yes,Yes,
+USA,Michigan,Porcupine Mountains (UP),630,200,200,Public w/Aerial Lifts,Independent,"Michigan White Gold Card, Michigan Kids Passport",Yes,Yes,Yes,Yes
+USA,Michigan,Sault Seal (UP),76,,,Public - Surface Lifts Only,Independent,,No,Yes,Yes,
+USA,Michigan,Shanty Creek - Schuss,500,81,160,Public w/Aerial Lifts,Independent,"Indy, Indy+, Michigan White Gold Card, Michigan Kids Passport",Yes,Yes,Yes,Yes
+USA,Michigan,Ski Brule (UP),421,150,150,Public w/Aerial Lifts,Independent,Michigan White Gold Card,Yes,Yes,Yes,Yes
+USA,Michigan,Snow Snake,210,40,60,Public w/Aerial Lifts,Independent,"Michigan White Gold Card, Michigan Kids Passport",Yes,Yes,Yes,Yes
+USA,Michigan,Snowriver: Black River (UP),490,170,204,Public w/Aerial Lifts,Midwest Family Ski Resorts,"Indy, Indy+, Legendary Pass, Michigan White Gold Card, Michigan Kids Passport",Yes,Yes,Yes,Yes
+USA,Michigan,Snowriver: Jackson Creek (UP),538,230,204,Public w/Aerial Lifts,Midwest Family Ski Resorts,"Indy, Indy+, Legendary Pass, Michigan White Gold Card, Michigan Kids Passport",Yes,Yes,Yes,Yes
+USA,Michigan,Swiss Valley,225,60,39,Public w/Aerial Lifts,Perfect Family,"Michigan White Gold Card, Michigan Kids Passport, Perfect Pass",Yes,Yes,Yes,Yes
+USA,Michigan,The Highlands,513,435,140,Public w/Aerial Lifts,Boyne Resorts,"Ikon, Ikon Base, Ikon Session, Boyne Passport, Boyne Explorer, New England Pass, Michigan Pass, Michigan White Gold Card, Michigan Kids Passport",Yes,Yes,Yes,Yes
+USA,Michigan,Timber Ridge,250,50,80,Public w/Aerial Lifts,Independent,"Michigan White Gold Card, Michigan Kids Passport",Yes,Yes,Yes,Yes
+USA,Michigan,Tower Mountain,100,10,,Public - Surface Lifts Only,Independent,,No,Yes,Yes,
+USA,Michigan,Treetops,223,80,140,Public w/Aerial Lifts,Independent,"Indy, Indy+, Michigan White Gold Card, Michigan Kids Passport",Yes,Yes,Yes,Yes
+USA,Minnesota,Afton Alps,350,300,60,Public w/Aerial Lifts,Vail Resorts,"Epic, Epic Local, Epic Day All, Epic Day 32, Epic Day 22, Minnesota Ski Areas Kids Passport",Yes,Yes,Yes,Yes
+USA,Minnesota,Andes Tower Hills,290,70,50,Public w/Aerial Lifts,Independent,"Indy, Indy+, Minnesota Ski Areas Kids Passport",Yes,Yes,Yes,Yes
+USA,Minnesota,Buck Hill,309,45,60,Public w/Aerial Lifts,Independent,"Ikon, Minnesota Ski Areas Kids Passport",Yes,Yes,Yes,Yes
+USA,Minnesota,Buena Vista,230,30,78,Public w/Aerial Lifts,Independent,Minnesota Ski Areas Kids Passport,Yes,Yes,Yes,Yes
+USA,Minnesota,Chester Bowl,164,6,100,Public w/Aerial Lifts,City of Duluth,Minnesota Ski Areas Kids Passport,Yes,Yes,Yes,Yes
+USA,Minnesota,Cloquet Nordic Ski Club,N/A,,,Public - Surface Lifts Only,Independent,,Yes,Yes,Yes,Yes
+USA,Minnesota,Coffee Mill,425,40,48,Public w/Aerial Lifts,Independent,Minnesota Ski Areas Kids Passport,Yes,Yes,Yes,Yes
+USA,Minnesota,Como Park Ski Center,150,15,,Public - Surface Lifts Only,Independent,Minnesota Ski Areas Kids Passport,Yes,Yes,Yes,Yes
+USA,Minnesota,Detroit Mountain,210,45,21,Public w/Aerial Lifts,Independent,"Indy, Indy+, Minnesota Ski Areas Kids Passport",Yes,Yes,Yes,Yes
+USA,Minnesota,Elm Creek,100,,,Public - Surface Lifts Only,Three Rivers Park District,Minnesota Ski Areas Kids Passport,Yes,Yes,Yes,Yes
+USA,Minnesota,Giants Ridge,500,202,62,Public w/Aerial Lifts,Independent,Minnesota Ski Areas Kids Passport,Yes,Yes,Yes,Yes
+USA,Minnesota,Hyland Hills,175,35,60,Public w/Aerial Lifts,Three Rivers Park District,"Indy, Indy+, Minnesota Ski Areas Kids Passport",Yes,Yes,Yes,Yes
+USA,Minnesota,Lutsen Mountains,825,1000,120,Public w/Aerial Lifts,Midwest Family Ski Resorts,"Indy, Indy+, Legendary Pass, Minnesota Ski Areas Kids Passport",Yes,Yes,Yes,Yes
+USA,Minnesota,Mount Itasca,180,,,Public w/Aerial Lifts,Independent,Minnesota Ski Areas Kids Passport,Yes,Yes,Yes,Yes
+USA,Minnesota,Mount Kato,240,55,50,Public w/Aerial Lifts,Independent,"Indy, Indy+, Indy Learn-To-Turn, Minnesota Ski Areas Kids Passport",Yes,Yes,Yes,Yes
+USA,Minnesota,Mount Ski Gull,230,55,50,Public w/Aerial Lifts,Independent,Minnesota Ski Areas Kids Passport,Yes,Yes,Yes,Yes
+USA,Minnesota,Powder Ridge,290,60,60,Public w/Aerial Lifts,Independent,"Indy, Indy+, Minnesota Ski Areas Kids Passport",Yes,Yes,Yes,Yes
+USA,Minnesota,Spirit Mountain,700,175,90,Public w/Aerial Lifts,City of Duluth,"Indy, Indy+, Minnesota Ski Areas Kids Passport",Yes,Yes,Yes,Yes
+USA,Minnesota,Steeplechase,240,45,,Public w/Aerial Lifts,Independent,Freedom,Yes,Yes,Yes,Yes
+USA,Minnesota,Welch Village,360,140,45,Public w/Aerial Lifts,Independent,Minnesota Ski Areas Kids Passport,Yes,Yes,Yes,Yes
+USA,Minnesota,Wild Mountain,300,100,50,Public w/Aerial Lifts,Independent,"Ikon, Minnesota Ski Areas Kids Passport",Yes,Yes,Yes,Yes
+USA,Missouri,Hidden Valley,320,65,19,Public w/Aerial Lifts,Vail Resorts,"Epic, Epic Local, Epic Day All, Epic Day 32, Epic Day 22",Yes,Yes,Yes,Yes
+USA,Missouri,Snow Creek,300,25,20,Public w/Aerial Lifts,Vail Resorts,"Epic, Epic Local, Epic Day All, Epic Day 32, Epic Day 22",Yes,Yes,Yes,
+USA,Montana,Bear Canyon,590,,,Private - Surface Lifts Only,Independent,,Yes,Yes,Yes,
+USA,Montana,Bear Paw,900,80,140,Public w/Aerial Lifts,Independent,,No,Yes,Yes,
+USA,Montana,Big Sky,4350,5850,291,Public w/Aerial Lifts,Boyne Resorts,"Ikon, Ikon Base, Ikon Session, Mountain Collective, New England Pass, Boyne Passport, Boyne Explorer, Michigan Pass",Yes,Yes,Yes,Yes
+USA,Montana,Blacktail,1440,1000,250,Public w/Aerial Lifts,Larry Scrivanich,"Indy, Indy+, Powder Alliance, Indy Learn-To-Turn",Yes,Yes,Yes,Yes
+USA,Montana,Bridger Bowl,2600,2000,303,Public w/Aerial Lifts,Independent,,Yes,Yes,Yes,Yes
+USA,Montana,Discovery,2388,2200,215,Public w/Aerial Lifts,Independent,,Yes,Yes,Yes,Yes
+USA,Montana,Great Divide,1500,1600,180,Public w/Aerial Lifts,Independent,,Yes,Yes,Yes,Yes
+USA,Montana,Lost Trail,1800,1800,325,Public w/Aerial Lifts,Independent,"Indy, Indy+, Ski Idaho Kids Passport",Yes,Yes,Yes,Yes
+USA,Montana,Maverick Mountain,1950,255,225,Public w/Aerial Lifts,Independent,,Yes,Yes,Yes,Yes
+USA,Montana,Montana Snowbowl,2600,2000,250,Public w/Aerial Lifts,Independent,"Indy, Indy+",Yes,Yes,Yes,
+USA,Montana,Red Lodge,2400,1635,200,Public w/Aerial Lifts,JMA Ventures,"Indy, Indy+",Yes,Yes,Yes,Yes
+USA,Montana,Showdown,1400,640,225,Public w/Aerial Lifts,Independent,,Yes,Yes,Yes,Yes
+USA,Montana,Teton Pass,1000,407,250,Public w/Aerial Lifts,Independent,,Yes,Yes,Yes,
+USA,Montana,Turner,2110,1000,250,Public w/Aerial Lifts,Independent,,Yes,Yes,Yes,
+USA,Montana,Whitefish,2353,3000,303,Public w/Aerial Lifts,Independent,,Yes,Yes,Yes,Yes
+USA,Montana,Yellowstone Club,2700,2700,291,Private w/Aerial Lifts,Independent,,Yes,Yes,Yes,
+USA,Nevada,Diamond Peak,1840,655,250,Public w/Aerial Lifts,Independent,California Gold Pass,Yes,Yes,Yes,Yes
+USA,Nevada,Elko Snobowl,700,60,24,Public w/Aerial Lifts,Independent,,Yes,No,Yes,
+USA,Nevada,Lee Canyon,860,195,161,Public w/Aerial Lifts,Mountain Capital Partners,"Power Pass Full, Power Pass Select, Power Pass Core, Weekday Power Pass, California Gold Pass",Yes,Yes,Yes,Yes
+USA,Nevada,Mt. Rose,1800,1200,313,Public w/Aerial Lifts,Independent,California Gold Pass,Yes,Yes,Yes,Yes
+USA,Nevada,Sky Tavern,673,,,Private w/Aerial Lifts,Independent,California Gold Pass,Yes,Yes,Yes,
+USA,New Hampshire,Abenaki (Wolfboro),215,18,,Public - Surface Lifts Only,Independent,Ski New Hampshire Kids Passport,Yes,Yes,Yes,
+USA,New Hampshire,Arrowhead,120,,,Public - Surface Lifts Only,Independent,,Yes,Yes,Yes,
+USA,New Hampshire,Attitash,1750,311,120,Public w/Aerial Lifts,Vail Resorts,"Epic, Epic Local, Epic Northeast Value, Epic Northeast Midweek, Epic Day All, Epic Day 32, Epic Day 22, Ski New Hampshire Kids Passport",Yes,Yes,Yes,Yes
+USA,New Hampshire,Black Mountain,1100,140,125,Public w/Aerial Lifts,Independent,"Indy, Indy+, Indy Learn-To-Turn",Yes,Yes,Yes,Yes
+USA,New Hampshire,Bretton Woods,1500,464,200,Public w/Aerial Lifts,Omni Hotels,"White Mountain Super Pass, Ski New Hampshire Kids Passport",Yes,Yes,Yes,Yes
+USA,New Hampshire,Campton,313,,,Public w/Aerial Lifts,Independent,,Yes,Yes,Yes,
+USA,New Hampshire,Cannon,2180,287,160,Public w/Aerial Lifts,Independent,"Indy, Indy+, White Mountain Super Pass, Ski New Hampshire Kids Passport",Yes,Yes,Yes,Yes
+USA,New Hampshire,Clancy (Cardigan Mtn School),60,,,Private - Surface Lifts Only,Independent,,Yes,Yes,Yes,
+USA,New Hampshire,Cranmore,1200,170,120,Public w/Aerial Lifts,Fairbank Group,"Ikon, Uphill New England, White Mountain Super Pass, Ski New Hampshire Kids Passport",Yes,Yes,Yes,Yes
+USA,New Hampshire,Crotched,1016,100,65,Public w/Aerial Lifts,Vail Resorts,"Epic, Epic Local, Epic Northeast Value, Epic Northeast Midweek, Epic Day All, Epic Day 32, Epic Day 22, Ski New Hampshire Kids Passport",Yes,Yes,Yes,
+USA,New Hampshire,Dartmouth Skiway,968,104,100,Public w/Aerial Lifts,Independent,"Indy, Indy+, Uphill New England, Indy Learn-To-Turn, Ski New Hampshire Kids Passport",Yes,Yes,Yes,
+USA,New Hampshire,Granite Gorge,525,25,100,Public w/Aerial Lifts,Independent,Ski New Hampshire Kids Passport,Yes,Yes,Yes,
+USA,New Hampshire,Gunstock,1340,227,120,Public w/Aerial Lifts,Independent,"Uphill New England, Ski New Hampshire Kids Passport",Yes,Yes,Yes,Yes
+USA,New Hampshire,Kanc Recreation Area,221,7,,Public - Surface Lifts Only,Independent,,Yes,Yes,Yes,
+USA,New Hampshire,King Pine,350,45,82,Public w/Aerial Lifts,Independent,"Indy Allied, Uphill New England, Ski New Hampshire Kids Passport",Yes,Yes,Yes,Yes
+USA,New Hampshire,Loon,2100,403,160,Public w/Aerial Lifts,Boyne Resorts,"Ikon, Ikon Base, Ikon Session, New England Pass, New England Day, Boyne Passport, Boyne Explorer, Michigan Pass, Ski New Hampshire Kids Passport",Yes,Yes,Yes,Yes
+USA,New Hampshire,McIntyre,170,26,50,Public w/Aerial Lifts,Independent,"Indy, Indy+, Freedom, Ski New Hampshire Kids Passport",Yes,Yes,Yes,Yes
+USA,New Hampshire,Mount Eustis,240,,,Public - Surface Lifts Only,Independent,,Yes,Yes,Yes,
+USA,New Hampshire,Mount Sunapee,1510,233,130,Public w/Aerial Lifts,Vail Resorts,"Epic, Epic Local, Epic Northeast Value, Epic Northeast Midweek, Epic Day All, Epic Day 32, Epic Day 22, Ski New Hampshire Kids Passport",Yes,Yes,Yes,Yes
+USA,New Hampshire,Norm Wright (Dublin School),100,,,Private - Surface Lifts Only,Independent,,Yes,Yes,Yes,
+USA,New Hampshire,Pats Peak,770,115,100,Public w/Aerial Lifts,Independent,"Indy, Indy+, Indy Learn-To-Turn, Ski New Hampshire Kids Passport",Yes,Yes,Yes,Yes
+USA,New Hampshire,Proctor,436,,,Private - Surface Lifts Only,Independent,,Yes,Yes,Yes,
+USA,New Hampshire,Ragged,1250,250,100,Public w/Aerial Lifts,Independent,"Indy, Indy+, Ski New Hampshire Kids Passport",Yes,Yes,Yes,Yes
+USA,New Hampshire,Red Hill,181,,,Private - Surface Lifts Only,Independent,,Yes,Yes,Yes,
+USA,New Hampshire,Storrs Hill,300,20,,Public - Surface Lifts Only,Independent,,Yes,Yes,Yes,
+USA,New Hampshire,Tenney,1400,130,140,Public w/Aerial Lifts,Independent,"Indy, Indy+, Uphill New England, Indy Learn-To-Turn, Ski New Hampshire Kids Passport",Yes,Yes,Yes,Yes
+USA,New Hampshire,Veterans Memorial,220,50,,Public - Surface Lifts Only,Independent,,Yes,Yes,Yes,
+USA,New Hampshire,Waterville Valley,2020,265,148,Public w/Aerial Lifts,Independent,"Indy, Indy+, Uphill New England, White Mountain Super Pass, Indy Learn-To-Turn, Ski New Hampshire Kids Passport",Yes,Yes,Yes,Yes
+USA,New Hampshire,Whaleback Mountain,700,85,110,Public w/Aerial Lifts,Independent,"Indy, Indy+, Uphill New England, Ski New Hampshire Kids Passport",Yes,Yes,Yes,
+USA,New Hampshire,Wildcat,2112,225,200,Public w/Aerial Lifts,Vail Resorts,"Epic, Epic Local, Epic Northeast Value, Epic Northeast Midweek, Epic Day All, Epic Day 32, Epic Day 22, Ski New Hampshire Kids Passport",Yes,Yes,Yes,Yes
+USA,New Jersey,Big Snow American Dream,160,4,0,Public w/Aerial Lifts,Snow Partners,"Snow Triple Play, WNEP Ski Card",Yes,Yes,Yes,Yes
+USA,New Jersey,Campgaw,270,18,45,Public w/Aerial Lifts,Independent,,Yes,Yes,Yes,
+USA,New Jersey,Mountain Creek,1040,167,65,Public w/Aerial Lifts,Snow Partners,"Snow Triple Play, WNEP Ski Card, Ski New York Kids Passport",Yes,Yes,Yes,Yes
+USA,New Jersey,National Winter Activity Center,620,36,65,Private w/Aerial Lifts,Independent,,Yes,Yes,Yes,
+USA,New Mexico,Angel Fire Resort,2077,560,210,Public w/Aerial Lifts,Independent,"Powder Alliance, Ski New Mexico True Pass",Yes,Yes,Yes,Yes
+USA,New Mexico,Cloudcroft,700,74,120,Public w/Aerial Lifts,Independent,,Yes,Yes,Yes,Yes
+USA,New Mexico,Pajarito,1440,280,125,Public w/Aerial Lifts,Mountain Capital Partners,"Power Pass Full, Power Pass Select, Power Pass Core, Weekday Power Pass, Ski New Mexico True Pass",Yes,Yes,Yes,
+USA,New Mexico,Red River,1600,285,214,Public w/Aerial Lifts,Independent,"Freedom, Ski New Mexico True Pass",Yes,Yes,Yes,Yes
+USA,New Mexico,Sandia Peak,1700,300,117,Public w/Aerial Lifts,Mountain Capital Partners,"Power Pass Full, Power Pass Select, Power Pass Core, Weekday Power Pass, Ski New Mexico True Pass",Yes,Yes,Yes,
+USA,New Mexico,Sipapu,1055,215,185,Public w/Aerial Lifts,Mountain Capital Partners,"Power Pass Full, Power Pass Select, Power Pass Core, Weekday Power Pass, Ski New Mexico True Pass",Yes,Yes,Yes,Yes
+USA,New Mexico,Ski Apache,1900,750,180,Public w/Aerial Lifts,Independent,,Yes,Yes,Yes,Yes
+USA,New Mexico,Ski Santa Fe,1725,660,225,Public w/Aerial Lifts,Independent,Ski New Mexico True Pass,Yes,Yes,Yes,Yes
+USA,New Mexico,Taos Ski Valley,3100,1294,300,Public w/Aerial Lifts,Independent,"Ikon, Ikon Base, Ikon Session, Mountain Collective, Ski New Mexico True Pass",Yes,Yes,Yes,Yes
+USA,New York,Beartown,150,32,,Public - Surface Lifts Only,Independent,,Yes,Yes,Yes,Yes
+USA,New York,Belleayre,1404,171,141,Public w/Aerial Lifts,New York State,"NY Ski 3, Snow Triple Play, Ski New York Kids Passport, Ski New York Gold Card",Yes,Yes,Yes,Yes
+USA,New York,Brantling,250,36,100,Public - Surface Lifts Only,Independent,,Yes,Yes,Yes,Yes
+USA,New York,Bristol,1200,138,130,Public w/Aerial Lifts,Independent,"Ski New York Kids Passport, Ski New York Gold Card",Yes,Yes,Yes,Yes
+USA,New York,Buffalo Ski Center,463,175,180,Public w/Aerial Lifts,Independent,"Indy, Indy+, Ski New York Kids Passport, Ski New York Gold Card",Yes,Yes,Yes,Yes
+USA,New York,Camillus,125,,,Public - Surface Lifts Only,Independent,,Yes,Yes,Yes,
+USA,New York,Cazenovia Ski Club,460,25,99,Private - Surface Lifts Only,Independent,"Indy, Indy+",Yes,Yes,Yes,
+USA,New York,Chestnut Ridge,48,,,Public - Surface Lifts Only,Erie County Parks,,Yes,Yes,Yes,
+USA,New York,Double H Ranch,110,,,Private w/Aerial Lifts,Independent,,Yes,Yes,Yes,
+USA,New York,Dry Hill,300,42,125,Public w/Aerial Lifts,Independent,"Indy, Indy+, Ski New York Kids Passport, Ski New York Gold Card",Yes,Yes,Yes,Yes
+USA,New York,Dynamite Hill,65,8,,Public - Surface Lifts Only,Independent,,Yes,Yes,Yes,
+USA,New York,Emery County Park,122,,,Public - Surface Lifts Only,Erie County Parks,,Yes,Yes,Yes,
+USA,New York,Gore,2562,453,125,Public w/Aerial Lifts,New York State,"NY Ski 3, Snow Triple Play, Ski New York Kids Passport, Ski New York Gold Card",Yes,Yes,Yes,Yes
+USA,New York,Greek Peak,952,300,120,Public w/Aerial Lifts,Independent,"Indy, Indy+, Indy Learn-To-Turn, Ski New York Kids Passport, Ski New York Gold Card",Yes,Yes,Yes,Yes
+USA,New York,Holiday Mountain,400,37,90,Public w/Aerial Lifts,Independent,"Ski New York Kids Passport, Ski New York Gold Card",Yes,Yes,Yes,
+USA,New York,Holiday Valley,750,290,180,Public w/Aerial Lifts,Independent,"Ski New York Kids Passport, Ski New York Gold Card",Yes,Yes,Yes,Yes
+USA,New York,Holimont,700,135,180,Private w/Aerial Lifts,Independent,Ski New York Gold Card,Yes,Yes,Yes,
+USA,New York,Hunt Hollow,815,80,46,Private w/Aerial Lifts,Independent,"Indy, Indy+, Indy Learn-To-Turn, Ski New York Kids Passport, Ski New York Gold Card",Yes,Yes,Yes,
+USA,New York,Hunter,1600,320,70,Public w/Aerial Lifts,Vail Resorts,"Epic, Epic Local, Epic Northeast Value, Epic Northeast Midweek, Epic Day All, Epic Day 32, Ski New York Gold Card",Yes,Yes,Yes,Yes
+USA,New York,Kissing Bridge,550,,180,Public w/Aerial Lifts,Independent,"Ski New York Kids Passport, Ski New York Gold Card, Snow Triple Play",Yes,Yes,Yes,Yes
+USA,New York,Labrador,700,250,125,Public w/Aerial Lifts,Intermountain Management,"Labrador/Song, Ski New York Kids Passport, Ski New York Gold Card",Yes,Yes,Yes,Yes
+USA,New York,Maple Ski Ridge,270,60,60,Public w/Aerial Lifts,Independent,"Indy, Indy+, Indy Learn-To-Turn, Ski New York Gold Card",Yes,Yes,Yes,Yes
+USA,New York,McCauley,633,75,281,Public w/Aerial Lifts,Independent,"Ski New York Kids Passport, Ski New York Gold Card",Yes,Yes,Yes,Yes
+USA,New York,Mount Peter,280,60,50,Public w/Aerial Lifts,Independent,"Ski New York Kids Passport, Ski New York Gold Card",Yes,Yes,Yes,Yes
+USA,New York,Mount Pisgah,329,15,60,Public - Surface Lifts Only,Independent,Ski New York Kids Passport,Yes,Yes,Yes,Yes
+USA,New York,Newcomb,161,,,Public - Surface Lifts Only,Independent,,Yes,Yes,Yes,
+USA,New York,Northampton,N/A,,,Public - Surface Lifts Only,Schoonover Family,,Yes,Yes,Yes,Yes
+USA,New York,Oak Mountain,650,100,120,Public w/Aerial Lifts,Independent,"Snow Triple Play, Ski New York Kids Passport, Ski New York Gold Card",Yes,Yes,Yes,Yes
+USA,New York,Peek’n Peak,400,130,200,Public w/Aerial Lifts,Independent,"Indy, Indy+, Ski New York Kids Passport, Ski New York Gold Card",Yes,Yes,Yes,Yes
+USA,New York,Plattekill,1100,119,175,Public w/Aerial Lifts,Independent,"Snow Triple Play, Ski New York Kids Passport, Ski New York Gold Card",Yes,Yes,Yes,Yes
+USA,New York,Powder Mills,N/A,,,Public - Surface Lifts Only,Schoonover Family,,Yes,Yes,Yes,Yes
+USA,New York,Ridin' Hy Ranch,100,10,98,Private - Surface Lifts Only,Independent,,Yes,Yes,Yes,
+USA,New York,Rocking Horse Ranch,150,10,30,Private - Surface Lifts Only,Independent,,Yes,Yes,Yes,
+USA,New York,Royal Mountain,575,60,90,Public w/Aerial Lifts,Independent,Ski New York Gold Card,Yes,Yes,Yes,Yes
+USA,New York,Skaneateles,400,33,100,Public - Surface Lifts Only,Independent,"Indy, Indy+, Ski New York Kids Passport",Yes,Yes,Yes,Yes
+USA,New York,Ski Venture,100,,,Private - Surface Lifts Only,Independent,,Yes,Yes,Yes,
+USA,New York,Snow Ridge,500,150,230,Public w/Aerial Lifts,Independent,"Indy, Indy+, Ski New York Kids Passport, Ski New York Gold Card",Yes,Yes,Yes,Yes
+USA,New York,Song Mountain,700,100,125,Public w/Aerial Lifts,Intermountain Management,"Labrador/Song, Ski New York Kids Passport, Ski New York Gold Card",Yes,Yes,Yes,Yes
+USA,New York,Swain,650,120,130,Public w/Aerial Lifts,Schoonover Family,"Indy, Indy+, WNEP Ski Card, Ski New York Kids Passport, Ski New York Gold Card, Indy Learn-To-Turn",Yes,Yes,Yes,Yes
+USA,New York,Thunder Ridge,600,100,60,Public w/Aerial Lifts,Independent,"Ski New York Kids Passport, Ski New York Gold Card",Yes,Yes,Yes,
+USA,New York,Titus,1200,380,150,Public w/Aerial Lifts,Independent,"Indy, Indy+, Indy Learn-To-Turn, Ski New York Kids Passport, Ski New York Gold Card",Yes,Yes,Yes,Yes
+USA,New York,Val Bialis,150,,,Public - Surface Lifts Only,Independent,,No,Yes,Yes,
+USA,New York,Victor Constant,475,,39,Public w/Aerial Lifts,Independent,,Yes,Yes,Yes,
+USA,New York,Villa Roma,190,,,Public w/Aerial Lifts,Independent,,Yes,Yes,Yes,
+USA,New York,West Mountain,1010,130,80,Public w/Aerial Lifts,Independent,"Indy, Indy+, Ski New York Kids Passport, Ski New York Gold Card",Yes,Yes,Yes,Yes
+USA,New York,Whiteface,3166,299,181,Public w/Aerial Lifts,New York State,"NY Ski 3, Snow Triple Play, Mountain Collective, Ski New York Kids Passport, Ski New York Gold Card",Yes,Yes,Yes,Yes
+USA,New York,Willard,505,85,80,Public w/Aerial Lifts,Independent,Ski New York Gold Card,Yes,Yes,Yes,
+USA,New York,Windham,1600,285,105,Public w/Aerial Lifts,Independent,"Ski New York Kids Passport, Ski New York Gold Card",Yes,Yes,Yes,Yes
+USA,New York,Woods Valley,500,25,74,Public w/Aerial Lifts,Independent,Ski New York Gold Card,Yes,Yes,Yes,Yes
+USA,North Carolina,Appalchian Ski Mountain,365,27,27,Public w/Aerial Lifts,Independent,North Carolina Gold Card,Yes,Yes,Yes,Yes
+USA,North Carolina,Beech Mountain,831,95,84,Public w/Aerial Lifts,Independent,North Carolina Gold Card,Yes,Yes,Yes,Yes
+USA,North Carolina,Cataloochee,740,50,24,Public w/Aerial Lifts,Independent,"Indy, Indy+, North Carolina Gold Card",Yes,Yes,Yes,Yes
+USA,North Carolina,Hatley Pointe,700,54,65,Public w/Aerial Lifts,Independent,"Indy, Indy+, North Carolina Gold Card",No,Yes,Yes,Yes
+USA,North Carolina,Sapphire Valley,200,8,24,Public w/Aerial Lifts,Independent,North Carolina Gold Card,Yes,Yes,Yes,Yes
+USA,North Carolina,Sugar Mountain,1200,115,70,Public w/Aerial Lifts,Independent,North Carolina Gold Card,Yes,Yes,Yes,Yes
+USA,North Dakota,Bottineau Winter Park,200,17,70,Public w/Aerial Lifts,Independent,"Indy, Indy+",Yes,Yes,Yes,Yes
+USA,North Dakota,Frost Fire,350,30,35,Public w/Aerial Lifts,Independent,,Yes,Yes,Yes,
+USA,North Dakota,Huff Hills,382,70,55,Public w/Aerial Lifts,Independent,"Indy, Indy+",Yes,Yes,Yes,
+USA,North Dakota,Thrill Hills,290,30,35,Public w/Aerial Lifts,Independent,,Yes,Yes,Yes,
+USA,Ohio,Alpine Valley OH,240,72,120,Public w/Aerial Lifts,Vail Resorts,"Epic, Epic Local, Epic Northeast Value, Epic Northeast Midweek, Epic Ohio, Epic Day All, Epic Day 32, Epic Day 22",Yes,Yes,Yes,
+USA,Ohio,Big Creek Ski Area,164,,,Private - Surface Lifts Only,Independent,,Yes,Yes,Yes,
+USA,Ohio,Boston Mills,264,40,54,Public w/Aerial Lifts,Vail Resorts,"Epic, Epic Local, Epic Northeast Value, Epic Northeast Midweek, Epic Ohio, Epic Day All, Epic Day 32, Epic Day 22",Yes,Yes,Yes,Yes
+USA,Ohio,Brandywine,240,40,54,Public w/Aerial Lifts,Vail Resorts,"Epic, Epic Local, Epic Northeast Value, Epic Northeast Midweek, Epic Ohio, Epic Day All, Epic Day 32, Epic Day 22",Yes,Yes,Yes,
+USA,Ohio,Mad River,300,144,36,Public w/Aerial Lifts,Vail Resorts,"Epic, Epic Local, Epic Northeast Value, Epic Northeast Midweek, Epic Ohio, Epic Day All, Epic Day 32, Epic Day 22",Yes,Yes,Yes,Yes
+USA,Ohio,Snow Trails,301,80,52,Public w/Aerial Lifts,Independent,,Yes,Yes,Yes,Yes
+USA,Oregon,Anthony Lakes,900,1000,250,Public w/Aerial Lifts,Independent,,Yes,Yes,Yes,Yes
+USA,Oregon,Cooper Spur,431,50,250,Public w/Aerial Lifts,Drake Family,"Indy, Indy+",Yes,Yes,Yes,
+USA,Oregon,Ferguson Ridge,640,170,250,Public - Surface Lifts Only,Independent,,Yes,Yes,Yes,
+USA,Oregon,Hoodoo,1035,800,350,Public w/Aerial Lifts,Independent,"Indy, Indy+",Yes,Yes,Yes,
+USA,Oregon,Mount Ashland,1106,223,285,Public w/Aerial Lifts,Independent,Freedom,Yes,Yes,Yes,Yes
+USA,Oregon,Mount Bachelor,3365,4323,387,Public w/Aerial Lifts,Powdr,"Ikon, Ikon Base, Ikon Session",Yes,Yes,Yes,Yes
+USA,Oregon,Mount Hood Meadows,2777,2150,439,Public w/Aerial Lifts,Drake Family,"Indy, Indy+",Yes,Yes,Yes,Yes
+USA,Oregon,Mount Hood Skibowl,1377,960,250,Public w/Aerial Lifts,Independent,"Powder Alliance, Mt. Hood Fusion Pass",Yes,Yes,Yes,
+USA,Oregon,Timberline Lodge (Inc. Summit),4540,1685,540,Public w/Aerial Lifts,Independent,"Powder Alliance, Mt. Hood Fusion Pass",Yes,Yes,Yes,Yes
+USA,Oregon,Warner Canyon,780,200,50,Public w/Aerial Lifts,Independent,,No,Yes,Yes,
+USA,Oregon,Willamette Pass,1563,555,375,Public w/Aerial Lifts,Mountain Capital Partners,"Power Pass Full, Power Pass Select, Power Pass Core, Weekday Power Pass",Yes,Yes,Yes,Yes
+USA,Pennsylvania,Bear Creek,510,86,30,Public w/Aerial Lifts,Independent,"Indy, Indy+, Pennsylvania Outdoor Adventure Pass",Yes,Yes,Yes,Yes
+USA,Pennsylvania,Big Boulder,475,55,50,Public w/Aerial Lifts,Vail Resorts,"Epic, Epic Local, Epic Northeast Value, Epic Northeast Midweek, Epic Day All, Epic Day 32, Epic Day 22",Yes,Yes,Yes,Yes
+USA,Pennsylvania,Blue Knob,1072,100,120,Public w/Aerial Lifts,Independent,"Indy, Indy+, Pennsylvania Outdoor Adventure Pass",Yes,Yes,Yes,Yes
+USA,Pennsylvania,Blue Mountain PA,1082,171,33,Public w/Aerial Lifts,Peregrine Hospitality,"Ikon, Ikon Base, Ikon Session, Peak-to-Peak Poconos, Pennsylvania Outdoor Adventure Pass",Yes,Yes,Yes,Yes
+USA,Pennsylvania,Boyce Park,166,25,36,Public w/Aerial Lifts,Independent,,Yes,Yes,Yes,Yes
+USA,Pennsylvania,Camelback,827,166,50,Public w/Aerial Lifts,Peregrine Hospitality,"Ikon, Ikon Base, Ikon Session, Peak-to-Peak Poconos, WNEP Ski Card",Yes,Yes,Yes,Yes
+USA,Pennsylvania,Eagle Rock,550,,,Private w/Aerial Lifts,Independent,,Yes,Yes,Yes,
+USA,Pennsylvania,Elk Mountain,925,180,65,Public w/Aerial Lifts,Independent,,Yes,Yes,Yes,Yes
+USA,Pennsylvania,Hidden Valley PA,470,110,140,Public w/Aerial Lifts,Vail Resorts,"Epic, Epic Local, Epic Northeast Value, Epic Northeast Midweek, Epic Day All, Epic Day 32, Epic Day 22",Yes,Yes,Yes,Yes
+USA,Pennsylvania,Jack Frost,600,100,50,Public w/Aerial Lifts,Vail Resorts,"Epic, Epic Local, Epic Northeast Value, Epic Northeast Midweek, Epic Day All, Epic Day 32, Epic Day 22",Yes,Yes,Yes,Yes
+USA,Pennsylvania,Laurel,761,70,41,Public w/Aerial Lifts,Vail Resorts,"Epic, Epic Local, Epic Northeast Value, Epic Northeast Midweek, Epic Day All, Epic Day 32, Epic Day 22",Yes,Yes,Yes,Yes
+USA,Pennsylvania,Liberty,620,100,31,Public w/Aerial Lifts,Vail Resorts,"Epic, Epic Local, Epic Northeast Value, Epic Northeast Midweek, Epic Day All, Epic Day 32, Epic Day 22",Yes,Yes,Yes,Yes
+USA,Pennsylvania,Locust Lake Village,150,,,Private - Surface Lifts Only,Independent,,Yes,Yes,Yes,
+USA,Pennsylvania,Montage,991,140,47,Public w/Aerial Lifts,Independent,"Indy, Indy+",Yes,Yes,Yes,Yes
+USA,Pennsylvania,Mount Pleasant,320,35,150,Public w/Aerial Lifts,Independent,Pennsylvania Outdoor Adventure Pass,Yes,Yes,Yes,Yes
+USA,Pennsylvania,Roundtop,600,103,30,Public w/Aerial Lifts,Vail Resorts,"Epic, Epic Local, Epic Northeast Value, Epic Northeast Midweek, Epic Day All, Epic Day 32, Epic Day 22",Yes,Yes,Yes,Yes
+USA,Pennsylvania,Saw Creek,300,,,Private w/Aerial Lifts,Independent,,Yes,Yes,Yes,
+USA,Pennsylvania,Seven Springs,754,285,135,Public w/Aerial Lifts,Vail Resorts,"Epic, Epic Local, Epic Northeast Value, Epic Northeast Midweek, Epic Day All, Epic Day 32, Epic Day 22",Yes,Yes,Yes,Yes
+USA,Pennsylvania,Shawnee Mountain,700,120,50,Public w/Aerial Lifts,Independent,"Indy, Indy+, Pennsylvania Outdoor Adventure Pass",Yes,Yes,Yes,Yes
+USA,Pennsylvania,Ski Big Bear,650,26,50,Public w/Aerial Lifts,Independent,"Indy, Indy+, WNEP Ski Card, Indy Learn-To-Turn, Pennsylvania Outdoor Adventure Pass",Yes,Yes,Yes,Yes
+USA,Pennsylvania,Ski Sawmill,515,15,24,Public w/Aerial Lifts,Independent,"Indy, Indy+, WNEP Ski Card",Yes,Yes,Yes,Yes
+USA,Pennsylvania,Spring Mountain,420,45,27,Public w/Aerial Lifts,Independent,Pennsylvania Outdoor Adventure Pass,Yes,Yes,Yes,Yes
+USA,Pennsylvania,The Hideout,131,,,Private w/Aerial Lifts,Independent,,Yes,Yes,Yes,
+USA,Pennsylvania,The Peak at Nemacolin,300,25,31,Private w/Aerial Lifts,Independent,,Yes,Yes,Yes,
+USA,Pennsylvania,Tussey,500,38,41,Public w/Aerial Lifts,Independent,"Indy, Indy+",Yes,Yes,Yes,Yes
+USA,Pennsylvania,Whitetail,935,109,40,Public w/Aerial Lifts,Vail Resorts,"Epic, Epic Local, Epic Northeast Value, Epic Northeast Midweek, Epic Day All, Epic Day 32, Epic Day 22",Yes,Yes,Yes,Yes
+USA,Rhode Island,Yawgoo,240,36,39,Public w/Aerial Lifts,Independent,Freedom,Yes,Yes,Yes,Yes
+USA,South Dakota,Deer Mountain,800,,,Private w/Aerial Lifts,Independent,,Yes,Yes,Yes,
+USA,South Dakota,Great Bear,182,21,41,Public w/Aerial Lifts,Independent,"Indy, Indy+",Yes,Yes,Yes,Yes
+USA,South Dakota,Terry Peak,1200,450,150,Public w/Aerial Lifts,Independent,"Indy, Indy+",Yes,Yes,Yes,Yes
+USA,Tennessee,Ober Mountain,526,38,35,Public w/Aerial Lifts,Independent,"Indy, Indy+",Yes,Yes,Yes,
+USA,Utah,Alta,2538,2614,526,Public w/Aerial Lifts,Independent,"Ikon, Mountain Collective, Altabird Pass, Ski Utah Yeti Pass, Ski Utah Kids Passport, Ski Utah Gold Pass",Yes,Yes,Yes,Yes
+USA,Utah,Beaver Mountain,1700,880,300,Public w/Aerial Lifts,Independent,"Indy, Indy+, Ski Utah Yeti Pass, Ski Utah Kids Passport, Ski Utah Gold Pass",Yes,Yes,Yes,
+USA,Utah,Brian Head,1320,650,301,Public w/Aerial Lifts,Mountain Capital Partners,"Power Pass Full, Power Pass Select, Power Pass Core, Weekday Power Pass, Ski Utah Yeti Pass, Ski Utah Kids Passport, Ski Utah Gold Pass",Yes,Yes,Yes,Yes
+USA,Utah,Brighton,1745,1050,502,Public w/Aerial Lifts,Boyne Resorts,"Ikon, Ikon Base, Ikon Session, New England Pass, Boyne Passport, Boyne Explorer, Michigan Pass, Ski Utah Yeti Pass, Ski Utah Kids Passport, Ski Utah Gold Pass",Yes,Yes,Yes,Yes
+USA,Utah,Buckskin,80,10,,Public - Surface Lifts Only,Independent,,Yes,Yes,Yes,
+USA,Utah,Cherry Peak,1275,400,300,Public w/Aerial Lifts,Independent,"Indy Allied, Freedom, Ski Utah Yeti Pass, Ski Utah Kids Passport, Ski Utah Gold Pass",Yes,Yes,Yes,
+USA,Utah,Deer Valley,3040,4926,294,Public w/Aerial Lifts,Alterra,"Ikon, Ski Utah Yeti Pass, Ski Utah Kids Passport, Ski Utah Gold Pass",Yes,Yes,Yes,Yes
+USA,Utah,Eagle Point,1500,650,325,Public w/Aerial Lifts,Independent,"Indy, Indy+, Ski Utah Yeti Pass, Indy Learn-To-Turn, Ski Utah Kids Passport, Ski Utah Gold Pass",Yes,Yes,Yes,Yes
+USA,Utah,Gateway Parks Salt Lake,,,,Public - Surface Lifts Only,Gateway,,No,No,Yes,
+USA,Utah,Gateway Spanish Forks,,,,Public - Surface Lifts Only,Gateway,,Yes,Yes,Yes,
+USA,Utah,Nordic Valley,1695,500,275,Public w/Aerial Lifts,Mountain Capital Partners,"Power Pass Full, Power Pass Select, Power Pass Core, Weekday Power Pass, Ski Utah Yeti Pass, Ski Utah Kids Passport, Ski Utah Gold Pass",Yes,Yes,Yes,
+USA,Utah,Park City,3226,7300,355,Public w/Aerial Lifts,Vail Resorts,"Epic, Epic Local, Epic Tahoe Local, Epic Day All, Ski Utah Yeti Pass, Ski Utah Kids Passport, Ski Utah Gold Pass",Yes,Yes,Yes,Yes
+USA,Utah,Powder Mountain,1995,5000,345,Public w/Aerial Lifts,Independent,"Ski Utah Yeti Pass, Ski Utah Kids Passport, Ski Utah Gold Pass",Yes,Yes,Yes,Yes
+USA,Utah,Snowbasin,3002,3000,324,Public w/Aerial Lifts,Holding Family,"Ikon, Mountain Collective, Ski Utah Yeti Pass, Ski Utah Kids Passport, Ski Utah Gold Pass",Yes,Yes,Yes,Yes
+USA,Utah,Snowbird,3240,2500,498,Public w/Aerial Lifts,Powdr,"Ikon, Ikon Base, Mountain Collective, Altabird Pass, Ski Utah Yeti Pass, Ski Utah Kids Passport, Ski Utah Gold Pass",Yes,Yes,Yes,Yes
+USA,Utah,Snowland,250,,,Public - Surface Lifts Only,Independent,,No,No,Yes,
+USA,Utah,Solitude,2041,1200,438,Public w/Aerial Lifts,Alterra,"Ikon, Ikon Base, Ikon Session, Ski Utah Yeti Pass, Ski Utah Kids Passport, Ski Utah Gold Pass",Yes,Yes,Yes,Yes
+USA,Utah,Sundance,2150,520,275,Public w/Aerial Lifts,Independent,"Power Pass Full, Power Pass Select, Ski Utah Yeti Pass, Ski Utah Kids Passport, Ski Utah Gold Pass",Yes,Yes,Yes,Yes
+USA,Utah,Utah Olympic Park,1196,,,Private w/Aerial Lifts,Independent,,Yes,Yes,Yes,
+USA,Utah,Wasatch Peaks Ranch,2300,3000,325,Private w/Aerial Lifts,Independent,,Yes,Yes,Yes,
+USA,Utah,Woodward Park City,349,,150,Public w/Aerial Lifts,Powdr,"Ski Utah Yeti Pass, Ski Utah Kids Passport, Ski Utah Gold Pass",Yes,Yes,Yes,Yes
+USA,Vermont,77 Winter Sports Park,90,,,Private - Surface Lifts Only,Independent,,Yes,Yes,Yes,
+USA,Vermont,Ascutney,450,26,,Public - Surface Lifts Only,Independent,,Yes,Yes,Yes,Yes
+USA,Vermont,Bellows Falls,200,,,Public - Surface Lifts Only,Independent,,No,Yes,Yes,
+USA,Vermont,Bolton Valley,1704,300,312,Public w/Aerial Lifts,Independent,"Indy, Indy+, Uphill New England, Ski Vermont 4 Pass, Indy Learn-To-Turn, Ski Vermont 5th Grade Passport",Yes,Yes,Yes,Yes
+USA,Vermont,Brattleboro,204,8,,Public - Surface Lifts Only,Independent,,Yes,Yes,Yes,Yes
+USA,Vermont,Bromley,1334,178,145,Public w/Aerial Lifts,Fairbank Group,"Uphill New England, Ski Vermont 4 Pass, Ski Vermont 5th Grade Passport",Yes,Yes,Yes,Yes
+USA,Vermont,Burke,2057,270,217,Public w/Aerial Lifts,Schaefer Family,"Indy, Indy+, Ski Vermont 4 Pass, Ski Vermont 5th Grade Passport",Yes,Yes,Yes,Yes
+USA,Vermont,Cochran’s,350,15,150,Public - Surface Lifts Only,Independent,Ski Vermont 5th Grade Passport,Yes,Yes,Yes,Yes
+USA,Vermont,Hard'Ack,100,,,Public - Surface Lifts Only,Independent,,Yes,Yes,Yes,Yes
+USA,Vermont,Harrington Hill,160,,,Public - Surface Lifts Only,Independent,,Yes,Yes,Yes,
+USA,Vermont,Hermitage Club,1400,200,,Private w/Aerial Lifts,Independent,,Yes,Yes,Yes,
+USA,Vermont,Jay Peak,2112,485,349,Public w/Aerial Lifts,Pacific Group Resorts,"Indy, Indy+, Ski Vermont 4 Pass, Indy Learn-To-Turn, Ski Vermont 5th Grade Passport",Yes,Yes,Yes,Yes
+USA,Vermont,Killington,2977,1509,230,Public w/Aerial Lifts,Phill Gross,"Ikon, Ikon Base, Ikon Session, Uphill New England, Killington Pass, Ski Vermont 4 Pass, Ski Vermont 5th Grade Passport",Yes,Yes,Yes,Yes
+USA,Vermont,Lyndon Outing Club,433,18,,Public - Surface Lifts Only,Independent,Ski Vermont 5th Grade Passport,No,Yes,Yes,
+USA,Vermont,Mad River Glen,2037,915,228,Public w/Aerial Lifts,Independent,"Ski Vermont 4 Pass, Ski Vermont 5th Grade Passport",Yes,Yes,Yes,Yes
+USA,Vermont,Magic Mountain,1500,405,130,Public w/Aerial Lifts,Independent,"Indy, Indy+, Uphill New England, Ski Vermont 4 Pass, Ski Vermont 5th Grade Passport",Yes,Yes,Yes,Yes
+USA,Vermont,Middlebury Snowbowl,920,200,200,Public w/Aerial Lifts,Independent,"Indy, Indy+, Uphill New England, Ski Vermont 4 Pass, Ski Vermont 5th Grade Passport",Yes,Yes,Yes,Yes
+USA,Vermont,Mount Snow,1700,601,150,Public w/Aerial Lifts,Vail Resorts,"Epic, Epic Local, Epic Northeast Value, Epic Northeast Midweek, Epic Day All, Epic Day 32, Ski Vermont 4 Pass, Ski Vermont 5th Grade Passport",Yes,Yes,Yes,Yes
+USA,Vermont,Northeast Slopes,360,35,,Public - Surface Lifts Only,Independent,Ski Vermont 5th Grade Passport,Yes,Yes,Yes,
+USA,Vermont,Okemo,2200,667,120,Public w/Aerial Lifts,Vail Resorts,"Epic, Epic Local, Epic Northeast Value, Epic Northeast Midweek, Epic Day All, Epic Day 32, Ski Vermont 4 Pass, Ski Vermont 5th Grade Passport",Yes,Yes,Yes,Yes
+USA,Vermont,Pico,1967,468,230,Public w/Aerial Lifts,Phill Gross,"Ikon, Ikon Base, Ikon Session, Uphill New England, Killington Pass, Ski Vermont 4 Pass, Ski Vermont 5th Grade Passport",Yes,Yes,Yes,Yes
+USA,Vermont,Quechee,650,100,70,Public w/Aerial Lifts,Independent,"Ski Vermont 4 Pass, Ski Vermont 5th Grade Passport",Yes,Yes,Yes,Yes
+USA,Vermont,Saskadena Six,650,100,90,Public w/Aerial Lifts,Independent,"Indy, Indy+, Ski Vermont 4 Pass, Uphill New England, Ski Vermont 5th Grade Passport",Yes,Yes,Yes,Yes
+USA,Vermont,Smugglers' Notch,2610,1060,322,Public w/Aerial Lifts,Independent,"Ski Vermont 4 Pass, Ski Vermont 5th Grade Passport",Yes,Yes,Yes,Yes
+USA,Vermont,Stowe,2360,485,314,Public w/Aerial Lifts,Vail Resorts,"Epic, Epic Local, Epic Northeast Value, Epic Northeast Midweek, Epic Day All, Epic Day 32, Ski Vermont 4 Pass, Ski Vermont 5th Grade Passport",Yes,Yes,Yes,Yes
+USA,Vermont,Stratton,2003,670,180,Public w/Aerial Lifts,Alterra,"Ikon, Ikon Base, Ikon Session, Ski Vermont 4 Pass, Ski Vermont 5th Grade Passport",Yes,Yes,Yes,Yes
+USA,Vermont,Sugarbush,2600,581,267,Public w/Aerial Lifts,Alterra,"Ikon, Ikon Base, Ikon Session, Ski Vermont 4 Pass, Ski Vermont 5th Grade Passport",Yes,Yes,Yes,Yes
+USA,Vermont,Vermont State (Randolph Ropetow),100,,,Private - Surface Lifts Only,Independent,,Yes,Yes,Yes,
+USA,Virginia,Bryce,500,50,30,Public w/Aerial Lifts,Independent,"Indy, Indy+",Yes,Yes,Yes,Yes
+USA,Virginia,Homestead,700,45,50,Public w/Aerial Lifts,Omni Hotels,,Yes,Yes,Yes,
+USA,Virginia,Massanutten,1155,70,35,Public w/Aerial Lifts,Independent,"Indy, Indy+",Yes,Yes,Yes,Yes
+USA,Virginia,Wintergreen,1003,129,40,Public w/Aerial Lifts,Pacific Group Resorts,"Indy, Indy+",Yes,Yes,Yes,Yes
+USA,Washington,49° North,1851,2325,301,Public w/Aerial Lifts,CMR Lands,"Indy, Indy+, Silver/49 North",Yes,Yes,Yes,
+USA,Washington,Badger Mountain,325,10,120,Public - Surface Lifts Only,Independent,,Yes,Yes,Yes,
+USA,Washington,Bluewood,1125,355,300,Public w/Aerial Lifts,Independent,"Indy, Indy+, Indy Learn-To-Turn",Yes,Yes,Yes,
+USA,Washington,Crystal Mountain WA,2602,2300,348,Public w/Aerial Lifts,Alterra,"Ikon, Ikon Base, Ikon Session",Yes,Yes,Yes,Yes
+USA,Washington,Echo Valley,900,70,100,Public - Surface Lifts Only,Independent,,Yes,Yes,Yes,
+USA,Washington,Hurricane Ridge,800,250,400,Public - Surface Lifts Only,Independent,"Indy, Indy+",Yes,Yes,Yes,
+USA,Washington,Leavenworth Ski Hill,300,20,89,Public - Surface Lifts Only,Independent,"Indy, Indy+",Yes,Yes,Yes,
+USA,Washington,Loup Loup,1240,300,86,Public w/Aerial Lifts,Independent,"Indy, Indy+, Indy Learn-To-Turn",Yes,Yes,Yes,
+USA,Washington,Meany Lodge,N/A,100,,Private - Surface Lifts Only,Independent,,Yes,Yes,Yes,
+USA,Washington,Mission Ridge,2250,2000,200,Public w/Aerial Lifts,Larry Scrivanich,"Indy, Indy+, Powder Alliance",Yes,Yes,Yes,Yes
+USA,Washington,Mt. Baker,1489,1000,688,Public w/Aerial Lifts,Independent,,Yes,Yes,Yes,Yes
+USA,Washington,Mt. Spokane,2071,1704,300,Public w/Aerial Lifts,Independent,Freedom,Yes,Yes,Yes,
+USA,Washington,Sahalie Ski Club,N/A,80,,Private - Surface Lifts Only,Independent,,Yes,Yes,Yes,
+USA,Washington,Snoqualmie: Alpental,2280,875,428,Public w/Aerial Lifts,Boyne Resorts,"Ikon, Ikon Base, Ikon Session, New England Pass, Boyne Passport, Boyne Explorer, Michigan Pass",Yes,Yes,Yes,
+USA,Washington,Snoqualmie: Summit,1255,1119,,Public w/Aerial Lifts,Boyne Resorts,"Ikon, Ikon Base, Ikon Session, New England Pass, Boyne Passport, Boyne Explorer, Michigan Pass",Yes,Yes,Yes,Yes
+USA,Washington,Stevens Pass,1784,1125,460,Public w/Aerial Lifts,Vail Resorts,"Epic, Epic Local, Epic Day All, Epic Day 32",Yes,Yes,Yes,Yes
+USA,Washington,White Pass,2000,1402,400,Public w/Aerial Lifts,Independent,"Indy, Indy+, Powder Alliance",Yes,Yes,Yes,Yes
+USA,West Virginia,Canaan Valley,850,95,117,Public w/Aerial Lifts,Independent,"Indy, Indy+, Ski West Virginia Kids Passport",Yes,Yes,Yes,Yes
+USA,West Virginia,Oglebay,168,,,Public w/Aerial Lifts,Independent,Ski West Virginia Kids Passport,Yes,Yes,Yes,
+USA,West Virginia,Silver Creek (Snowshoe),703,,150,Public w/Aerial Lifts,Alterra,"Ikon, Ikon Base, Ikon Session, Ski West Virginia Kids Passport",Yes,Yes,Yes,
+USA,West Virginia,Snowshoe/Western Territory,1500,257,150,Public w/Aerial Lifts,Alterra,"Ikon, Ikon Base, Ikon Session, Ski West Virginia Kids Passport",Yes,Yes,Yes,Yes
+USA,West Virginia,Timberline,1000,100,170,Public w/Aerial Lifts,Perfect Family,"Perfect Pass, Ski West Virginia Kids Passport",Yes,Yes,Yes,Yes
+USA,West Virginia,Winterplace,603,90,100,Public w/Aerial Lifts,Independent,"Indy, Indy+, Ski West Virginia Kids Passport",Yes,Yes,Yes,Yes
+USA,Wisconsin,Alpine Valley WI,388,90,80,Public w/Aerial Lifts,Wisconsin Resorts,"Wisconsin Resorts, Skiing Wisconsin Passport",Yes,Yes,Yes,Yes
+USA,Wisconsin,Ausblick Ski Club,182,10,,Private w/Aerial Lifts,Independent,,Yes,Yes,Yes,Yes
+USA,Wisconsin,Blackhawk,300,,,Private - Surface Lifts Only,Independent,,Yes,Yes,Yes,Yes
+USA,Wisconsin,Bruce Mound,375,40,12,Public w/Aerial Lifts,Independent,"Indy, Indy+",Yes,Yes,Yes,Yes
+USA,Wisconsin,Camp 10,250,120,60,Public w/Aerial Lifts,Independent,,Yes,Yes,Yes,Yes
+USA,Wisconsin,Cascade,450,176,80,Public w/Aerial Lifts,Independent,Skiing Wisconsin Passport,Yes,Yes,Yes,Yes
+USA,Wisconsin,Christie Mountain,350,100,33,Public w/Aerial Lifts,Independent,"Indy, Indy+, Skiing Wisconsin Passport, Indy Learn-To-Turn",Yes,Yes,Yes,Yes
+USA,Wisconsin,Christmas Mountain Village,250,40,40,Public w/Aerial Lifts,Independent,Skiing Wisconsin Passport,Yes,Yes,Yes,Yes
+USA,Wisconsin,Crystal Ridge,183,50,40,Public w/Aerial Lifts,Schmitz Brothers,"Indy, Indy+, Freedom, Sno Pass, Skiing Wisconsin Passport, Indy Learn-To-Turn",Yes,Yes,Yes,Yes
+USA,Wisconsin,Devil’s Head,500,300,70,Public w/Aerial Lifts,Independent,Skiing Wisconsin Passport,Yes,Yes,Yes,Yes
+USA,Wisconsin,Fox Hill,226,,,Private - Surface Lifts Only,Independent,,Yes,Yes,Yes,Yes
+USA,Wisconsin,Grand Geneva (Mountain Top),115,30,34,Public w/Aerial Lifts,Independent,Skiing Wisconsin Passport,Yes,Yes,Yes,Yes
+USA,Wisconsin,Granite Peak,700,400,60,Public w/Aerial Lifts,Midwest Family Ski Resorts,"Indy, Indy+, Legendary Pass, Skiing Wisconsin Passport",Yes,Yes,Yes,Yes
+USA,Wisconsin,Heiliger Huegel Ski Club,200,20,,Private w/Aerial Lifts,Independent,,Yes,Yes,Yes,Yes
+USA,Wisconsin,Kettlebowl,325,,,Public - Surface Lifts Only,Independent,,Yes,Yes,Yes,
+USA,Wisconsin,Keyes Peak,230,15,60,Public - Surface Lifts Only,Independent,,Yes,Yes,Yes,Yes
+USA,Wisconsin,Little Switzerland,200,50,45,Public w/Aerial Lifts,Schmitz Brothers,"Indy, Indy+, Freedom, Sno Pass, Skiing Wisconsin Passport, Indy Learn-To-Turn",Yes,Yes,Yes,Yes
+USA,Wisconsin,Mont du Lac,320,20,55,Public w/Aerial Lifts,Independent,Skiing Wisconsin Passport,Yes,Yes,Yes,Yes
+USA,Wisconsin,Mount Ashwabay,317,65,120,Public w/Aerial Lifts,Independent,Skiing Wisconsin Passport,Yes,Yes,Yes,Yes
+USA,Wisconsin,Mount La Crosse,516,100,41,Public w/Aerial Lifts,Independent,"Indy, Indy+, Skiing Wisconsin Passport",Yes,Yes,Yes,Yes
+USA,Wisconsin,Nordic Mountain,265,60,50,Public w/Aerial Lifts,Schmitz Brothers,"Indy, Indy+, Freedom, Sno Pass, Skiing Wisconsin Passport, Indy Learn-To-Turn",Yes,Yes,Yes,Yes
+USA,Wisconsin,Nutt Hill,120,7,,Public - Surface Lifts Only,Independent,,No,No,Yes,Yes
+USA,Wisconsin,Paul Bunyan,150,,65,Public - Surface Lifts Only,Independent,Indy Allied,Yes,Yes,Yes,Yes
+USA,Wisconsin,Powers Bluff,250,,,Public - Surface Lifts Only,Independent,,Yes,Yes,Yes,Yes
+USA,Wisconsin,Standing Rocks Park,125,30,45,Public - Surface Lifts Only,Independent,,Yes,Yes,Yes,
+USA,Wisconsin,Sunburst,197,30,11,Public w/Aerial Lifts,Independent,"Indy, Indy+, Skiing Wisconsin Passport",Yes,Yes,Yes,Yes
+USA,Wisconsin,Sunset Hill (Forest Springs),N/A,,,Public - Surface Lifts Only,Independent,,Yes,Yes,Yes,
+USA,Wisconsin,Triangle Sports Area,75,,,Public - Surface Lifts Only,Independent,,Yes,Yes,Yes,
+USA,Wisconsin,Trollhaugen,272,86,50,Public w/Aerial Lifts,Independent,"Indy, Indy+, Skiing Wisconsin Passport",Yes,Yes,Yes,Yes
+USA,Wisconsin,Tyrol Basin,300,40,51,Public w/Aerial Lifts,Independent,"Indy, Indy+, Skiing Wisconsin Passport",Yes,Yes,Yes,Yes
+USA,Wisconsin,Whitecap Mountains,455,400,200,Public w/Aerial Lifts,Independent,Skiing Wisconsin Passport,Yes,Yes,Yes,Yes
+USA,Wisconsin,Whitetail Ridge,185,,,Public - Surface Lifts Only,Independent,,Yes,Yes,Yes,
+USA,Wisconsin,Wilmot,200,120,48,Public w/Aerial Lifts,Vail Resorts,"Epic, Epic Local, Epic Day All, Epic Day 32, Epic Day 22, Skiing Wisconsin Passport",Yes,Yes,Yes,Yes
+USA,Wisconsin,Winter Park (Kewaunee ),160,5,,Public - Surface Lifts Only,Independent,,Yes,Yes,Yes,
+USA,Wyoming,Antelope Butte,1000,225,200,Public w/Aerial Lifts,Independent,"Indy, Indy+",Yes,Yes,Yes,Yes
+USA,Wyoming,Beartooth Basin,1000,90,,Public - Surface Lifts Only,Independent,,No,Yes,Yes,
+USA,Wyoming,Grand Targhee,2270,2602,465,Public w/Aerial Lifts,Independent,"Mountain Collective, Ski Idaho Kids Passport",Yes,Yes,Yes,Yes
+USA,Wyoming,Hogadon Basin,600,60,140,Public w/Aerial Lifts,Independent,,Yes,Yes,Yes,Yes
+USA,Wyoming,Jackson Hole,4139,2500,369,Public w/Aerial Lifts,Independent,"Ikon, Mountain Collective",Yes,Yes,Yes,Yes
+USA,Wyoming,Meadowlark,1000,300,160,Public w/Aerial Lifts,Independent,"Indy, Indy+",Yes,Yes,Yes,Yes
+USA,Wyoming,Pine Creek,1425,640,300,Public w/Aerial Lifts,Independent,,Yes,Yes,Yes,
+USA,Wyoming,Snow King,1571,500,225,Public w/Aerial Lifts,Independent,"Indy, Indy+, Powder Alliance",Yes,Yes,Yes,Yes
+USA,Wyoming,Snowy Range,865,250,245,Public w/Aerial Lifts,Independent,,Yes,Yes,Yes,Yes
+USA,Wyoming,White Pine,1000,350,151,Public w/Aerial Lifts,Independent,"Indy, Indy+",Yes,Yes,Yes,Yes
